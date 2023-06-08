@@ -2,7 +2,7 @@
 
 ### John Chess is my own chess variation based on John. 
 
-John is not very chess-literate, he doesn't even know about checks! He gets his own king captured because he isn't aware he has to move it. He doesn't know about the en passent, the promotion, the castling. He's just in it for the fun.
+John is not very chess-literate, he doesn't even know about checks! He gets his own king captured because he isn't aware he has to move it. He doesn't know about the en passent, the promotion, the castling... He's just in it for the fun.
 
 ![image](https://github.com/manjester/johnchess/assets/135976540/a6910bce-f2ea-401a-9ba8-691e60c43006)
 <sup>Ooh, hello there rookie</sup>
