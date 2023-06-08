@@ -24,7 +24,7 @@ Only _pure unfiltered fun_.
 
 **You win if your king is captured! Good luck!**
 
-> "The game say "Black wins!" when you're playing white and you got your king captured. That's a bug, probably" - John
+> "The game say "Black wins!" when you're playing white and you get your king captured. That's a bug, probably" - John
 
 ## Who is John?
 **John** can be whoever you want. Maybe John is a cool sub-urban guy in his 30s who takes serious interest in chess, or a 14-year-old who only enjoys playing video games and eating snacks, or a man who's been a professional chess player for 30 years. 
