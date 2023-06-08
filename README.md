@@ -18,7 +18,7 @@ My implementation of "John" within the game. Launch this file instead if you wan
 
 ## Rules
 
-No castling, no 50-move rule, no threefold repetition, no promotion, no enpassent, no castling.
+No checks, no castling, no enpassent, no stalemate, no 50-move rule, no threefold repetition, no promotion.
 
 Only _pure unfiltered fun_.
 
